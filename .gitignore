@@ -1,0 +1,21 @@
+# Build outputs
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local / runtime
+*.log
+*.mod
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

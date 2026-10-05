@@ -1,0 +1,25 @@
+Walk Toggle — install
+
+Requirements
+- Helldivers 2 Steam build 25480438
+- Bingus Shared Loader v18+ (last in load order / winning Wwise startup)
+- Mod Bindings Menu v2+
+
+Install
+1. Close Helldivers 2.
+2. Import build\Walk-Toggle-v1.zip into Arsenal or HD2MM.
+3. Enable: Walk Toggle, Mod Bindings Menu, Bingus Shared Loader.
+4. Put Bingus Shared Loader last (default Arsenal priority).
+5. Purge / Deploy, then launch the game.
+
+In-game setup
+1. Options → Mouse & Keyboard (or Controller) → MODS tab.
+2. Under WALK TOGGLE set "TOGGLE WALK" to your key (recommended: Caps Lock).
+   Left Alt works as a temporary fallback, but vanilla Dive is also Alt.
+3. Enter a mission or the ship bay, press the toggle once (Walk ON).
+4. Tap W, A, S, D once each so the mod can map Avatar move actions.
+5. Move with WASD — speed should stay in the walk band until you toggle off.
+
+Logs
+%LOCALAPPDATA%\CowboyBingus\Helldivers2\Logs\WalkToggle.log
+%LOCALAPPDATA%\CowboyBingus\Helldivers2\Logs\BingusSharedLoader.log

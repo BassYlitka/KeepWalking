@@ -1,0 +1,1 @@
+Lets you set hotkeys inside the game without having to minimize it. Requires Bingus Shared Loader v17+ and Mod Bindings Menu v2.0+. Bind in Options → Mouse & Keyboard → MODS tab (section Keep Walking).
